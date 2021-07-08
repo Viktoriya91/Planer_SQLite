@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPlanner</string>
+    <string name="textView_main_layout">Планер</string>
+    <string name="textView_edit_layout">Заметка:</string>
+    <string name="editText_hint">Введите описание</string>
+    <string name="editText_hint_title">Введите название</string>
+    <string name="text_main">Пусто</string>
+</resources>
